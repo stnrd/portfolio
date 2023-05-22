@@ -56,12 +56,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "JavaScript",
+      skillName: "JavaScript & TypeScript",
       fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "TypeScript",
-      fontAwesomeClassname: "fab fa-ts"
     },
     {
       skillName: "ReactJS & React Native",
@@ -93,7 +89,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Business Intelligence",
-      fontAwesomeClassname: "fab fa-magnifying-glass-chart"
+      fontAwesomeClassname: "fas fa-magnifying-glass-chart"
     }
   ],
   display: true // Set false to hide this section, defaults to true
