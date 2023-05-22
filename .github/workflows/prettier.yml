@@ -18,8 +18,8 @@ jobs:
           node-version: '12'
 
       - name: Install Prettier
-        run: npm install -g prettier
+        run: yarn global add prettier
 
       - name: Check Format
         run: |
-          prettier -c "./*/.{js,css,json}"
+          yarn run prettier -c "./*/.{js,css,json}"
