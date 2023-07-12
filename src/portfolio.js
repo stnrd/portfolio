@@ -47,7 +47,10 @@ const skillsSection = {
   subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop Front end / User Interfaces for web and mobile applications"
+    ),
+    emoji(
+      "🔥 Developing rest, graphql and grpc api's for web and mobile applications"
     ),
   ],
 
@@ -70,6 +73,10 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "SQL-Database",
       fontAwesomeClassname: "fas fa-database"
+    },
+    {
+      skillName: "HTML & CSS",
+      fontAwesomeClassname: "fas fa-code"
     },
     {
       skillName: "AWS",
@@ -283,7 +290,7 @@ const podcastSection = {
 };
 
 const contactInfo = {
-  title: emoji("Contact Me ☎️"),
+  title: emoji("Contact Me ✉️"),
   subtitle:
     "",
   number: "",
