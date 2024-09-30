@@ -23,7 +23,7 @@ const greeting = {
   username: "Sten Raadschelders",
   title: "Hi all, I'm Sten",
   subTitle: emoji(
-    "As a passionate Full Stack Software Developer 🚀, I have gained experience in developing both web and mobile applications using a variety of libraries and frameworks, such as JavaScript, Reactjs, Nodejs, React Native, and others."
+    "As a passionate Full Stack Software Developer 🚀, I have gained experience in developing both web and mobile applications using a variety of libraries and frameworks, such as Go, Typescript, React, React Native, and others."
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
