@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "As a passionate Full Stack Software Developer 🚀, I have gained experience in developing both web and mobile applications using a variety of libraries and frameworks, such as JavaScript, Reactjs, Nodejs, React Native, and others."
   ),
-  resumeLink:
-    "", // Set to empty to hide the button
+  resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -51,7 +50,7 @@ const skillsSection = {
     ),
     emoji(
       "🔥 Developing rest, graphql and grpc api's for web and mobile applications"
-    ),
+    )
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -145,7 +144,7 @@ const workExperiences = {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
-    },
+    }
   ]
 };
 
@@ -258,8 +257,7 @@ const blogSection = {
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
-  blogs: [
-  ],
+  blogs: [],
   display: false // Set false to hide this section, defaults to true
 };
 
@@ -271,8 +269,7 @@ const talkSection = {
     "I LOVE TO SHARE MY LIMITED KNOWLEDGE AND GET A SPEAKER BADGE 😅"
   ),
 
-  talks: [
-  ],
+  talks: [],
   display: false // Set false to hide this section, defaults to true
 };
 
@@ -291,8 +288,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ✉️"),
-  subtitle:
-    "",
+  subtitle: "",
   number: "",
   email_address: "cast_roan07@icloud.com"
 };
